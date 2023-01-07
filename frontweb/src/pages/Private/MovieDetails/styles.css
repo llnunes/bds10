@@ -1,0 +1,21 @@
+.movie-details-container h1 {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+
+    line-height: 33px;
+    /* identical to box height */
+
+    letter-spacing: -0.015em;
+
+    color: #ffffff;
+    margin: 40px 0 40px 40px;
+}
+
+.review-card-container{
+    margin: 40px 0 40px 40px;
+}
+
+.review-listing -container{
+    margin: 40px 0 40px 40px;
+}

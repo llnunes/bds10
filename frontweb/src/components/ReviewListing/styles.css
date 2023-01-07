@@ -1,0 +1,12 @@
+.review-listing-card {
+    padding: 20px;
+    font-size: 16px;
+    margin: 40px 40px 40px 40px;
+}
+
+.input-disabled {
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+}
+
+

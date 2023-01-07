@@ -1,0 +1,23 @@
+.review-card {
+    padding: 20px;
+    font-size: 16px;
+    margin: 40px 40px 40px 40px;
+}
+
+.base-input {
+    margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+    .review-submit {
+        display: flex;
+        align-items: center;
+        justify-content: center;            
+    }
+
+    .btnSalvarAvaliacao {
+        height: 50px;
+        width: 330px;
+    }
+
+}

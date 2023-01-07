@@ -1,0 +1,40 @@
+.main-nav {
+  padding-left: 40px;
+  min-height: 70px;
+}
+
+.nav-logo-text {
+  color: #000;
+}
+
+.nav-logo-text:hover {
+  color: #000;
+}
+
+.nav-login-logout {
+  display: none;
+}
+
+.nav-login-logout a {  
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+
+.sair-text {
+  padding: 20px;
+  font-weight: bold;
+}
+
+@media (min-width: 768px) {
+  .nav-login-logout {
+    display: unset;
+    color: #000;
+    margin-right: 15px;
+  }
+}
+
+@media (min-width: 992px) {
+  .nav-login-logout {
+    margin-right: 40px;
+  }
+}
