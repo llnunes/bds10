@@ -9,13 +9,17 @@
     letter-spacing: -0.015em;
 
     color: #ffffff;
-    margin: 40px 0 40px 40px;
+    margin: 40px 0 0 40px;
+}
+
+.movie-details-container {
+    margin: 40px 40px 0 40px;
 }
 
 .review-card-container{
-    margin: 40px 0 40px 40px;
+    margin: 40px 0 0 40px;
 }
 
-.review-listing -container{
-    margin: 40px 0 40px 40px;
+.review-listing-container{
+    margin: 40px 0 0 40px;
 }

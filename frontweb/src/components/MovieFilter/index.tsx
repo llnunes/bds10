@@ -51,7 +51,7 @@ const MovieFilter = ({ onSubmitFilter }: Props) => {
     <div className="base-card movie-filter-container">
       <form onSubmit={handleSubmit(onSubmit)} className="movie-filter-form">
         <div className="movie-filter-bottom-container">
-          <div className="movie-filter-category-container">
+          <div className="movie-filter-genre-container">
             <Controller
               name="genre"
               control={control}
