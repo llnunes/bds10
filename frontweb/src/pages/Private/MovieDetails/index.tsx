@@ -4,7 +4,6 @@ import ReviewListing from 'components/ReviewListing';
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { Movie } from 'types/movie';
-import { Genre } from 'types/genre';
 import { Review } from 'types/review';
 import { hasAnyRoles } from 'util/auth';
 import { requestBackend } from 'util/requests';
